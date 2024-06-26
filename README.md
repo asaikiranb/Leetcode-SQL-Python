@@ -1,4 +1,4 @@
-LeetCode Practice Tracker
+LeetCode Practice Tracker - 
 This repository automatically tracks my progress on LeetCode practice problems. It contains information about the problems I've solved, including:
 
 Problem ID: The unique identifier for the problem on LeetCode.
