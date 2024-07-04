@@ -9,6 +9,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/asaikiranb/SQL-50/tree/master/0175-combine-two-tables) |
 | [0596-classes-more-than-5-students](https://github.com/asaikiranb/SQL-50/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/asaikiranb/SQL-50/tree/master/0619-biggest-single-number) |
 | [1155-product-sales-analysis-iii](https://github.com/asaikiranb/SQL-50/tree/master/1155-product-sales-analysis-iii) |
