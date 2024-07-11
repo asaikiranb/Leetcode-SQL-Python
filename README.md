@@ -17,6 +17,7 @@
 | [1155-product-sales-analysis-iii](https://github.com/asaikiranb/SQL-50/tree/master/1155-product-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/asaikiranb/SQL-50/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1877-find-followers-count](https://github.com/asaikiranb/SQL-50/tree/master/1877-find-followers-count) |
+| [1942-primary-department-for-each-employee](https://github.com/asaikiranb/SQL-50/tree/master/1942-primary-department-for-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/asaikiranb/SQL-50/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
