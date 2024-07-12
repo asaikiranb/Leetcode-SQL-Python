@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/asaikiranb/SQL-50/tree/master/0175-combine-two-tables) |
+| [0180-consecutive-numbers](https://github.com/asaikiranb/SQL-50/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/asaikiranb/Leetcode-SQL-Python/tree/master/0197-rising-temperature) |
 | [0596-classes-more-than-5-students](https://github.com/asaikiranb/SQL-50/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/asaikiranb/SQL-50/tree/master/0610-triangle-judgement) |
