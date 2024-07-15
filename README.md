@@ -15,6 +15,7 @@
 | [0596-classes-more-than-5-students](https://github.com/asaikiranb/SQL-50/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/asaikiranb/SQL-50/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/asaikiranb/SQL-50/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/asaikiranb/SQL-50/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/asaikiranb/SQL-50/tree/master/1155-product-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/asaikiranb/SQL-50/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1278-product-price-at-a-given-date](https://github.com/asaikiranb/SQL-50/tree/master/1278-product-price-at-a-given-date) |
